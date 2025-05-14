@@ -84,7 +84,7 @@ This mechanism ensures the panel remains hidden from unauthorized access. Even i
 To set up the server, run this command on it:
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/gopnikgame/remnawave-reverse-proxy/blob/main/install_remnawave.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/gopnikgame/remnawave-reverse-proxy/main/install_remnawave.sh)
 ```
 <p align="center"><a href="#"><img src="./media/remnawave-reverse-proxy_en.png" alt="Image"></a></p>
 
